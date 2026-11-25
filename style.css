@@ -52,6 +52,7 @@ h1 {
 .card:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 22px rgba(74, 44, 49, 0.14);
+  cursor: pointer;
 }
 
 .card img {
